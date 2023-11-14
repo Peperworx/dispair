@@ -1,0 +1,11 @@
+[package]
+name = "dispair"
+description = "Dispair (Disp-Err) is a zero-dependency (other than `std`) library that provides a simple wrapper struct that implements `Error` for any type that implements both `Debug` and `Display`."
+readme = "README.md"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
